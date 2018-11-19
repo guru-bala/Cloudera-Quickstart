@@ -1,7 +1,7 @@
 # Cloudera-Quickstart - 
 ## Steps to create a Cloudera quickstart VM with docker container on Azure
 
-1. Create/Provision a simple Ubuntu Linux VM on Azure - D4S-V3 machine, as Cloudera VM needs 16GB (costs ~$220/month). 
+1. Create/Provision a simple Ubuntu Linux VM on Azure - D4S-V3 machine, as Cloudera VM needs 16GB. 
 
 Steps to create a Linux Azure VM can be found [here](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm)
 
